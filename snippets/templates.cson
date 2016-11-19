@@ -1,4 +1,4 @@
-'.text.html':
+'.text.html, .source.js':
   'Basic HTML Template':
     'prefix': 'html-'
     'body': """
